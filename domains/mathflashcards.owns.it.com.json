@@ -1,0 +1,13 @@
+{
+  "description": "Personal game website",
+  "domain": "owns.it.com",
+  "subdomain": "theowns",
+  "owner": {
+    "repo": "https://github.com/kaboomcraftmc-sudo/YOUR-REPO",
+    "email": "kaboomcraft.mc@gmail.com
+  },
+  "record": {
+    "A": ["YOUR-PUBLIC-IP"]
+  },
+  "proxied": false
+}
