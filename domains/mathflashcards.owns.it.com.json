@@ -4,10 +4,10 @@
   "subdomain": "theowns",
   "owner": {
     "repo": "https://github.com/kaboomcraftmc-sudo/YOUR-REPO",
-    "email": "kaboomcraft.mc@gmail.com
+    "email": "kaboomcraft.mc@gmail.com"
   },
   "record": {
-    "A": ["YOUR-PUBLIC-IP"]
+    "A": ["216.144.165.41"]
   },
   "proxied": false
 }
